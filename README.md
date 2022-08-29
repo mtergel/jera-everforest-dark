@@ -1,1 +1,1 @@
-# jera-everforest-dark
+# Dark Eveforest theme for Jera
